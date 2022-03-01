@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The work goes bonnely on</title>
+            <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06027</idno>
+            <idno type="STC">Wing S6322A</idno>
+            <idno type="STC">ESTC R204238</idno>
+            <idno type="EEBO-CITATION">52529014</idno>
+            <idno type="OCLC">ocm 52529014</idno>
+            <idno type="VID">179128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179128)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2777:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The work goes bonnely on</title>
+                  <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Printed, Anno Dom. 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to Thomas St. Serfe, or Sydserff.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Concerns the celebrations in Scotland of the anniversary of the restoration of Charles II.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>With: The execution of the Covenant, burnt by the common hang-man Edward Dun, Presbyter, May 22. 1661.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Church of Scotland --  Controversial literature --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:179128:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:179128:1"/>
+            <pb facs="tcp:179128:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179128:2" rendition="simple:additions"/>
+            <head>THE WORK Goes Bonnely on.</head>
+            <p>GOd-a mercy good honeſt Blew-beard, for giving a Text at leaſt (when Funerall Sermons were not in cuſtome) to theſe glorious and illuſtrious Martyrs, ſacrificed for their good conſcience to GOD and the KING, at <hi>Glaſgow,</hi> St. <hi>Andrews</hi> and <hi>Edinburgh,</hi> hurried hence in Seas of Blood, with this your <hi>plaudite, The Work goes bonnely on.</hi>
+            </p>
+            <p>But now bleſſed be God, the Covenant and all belongs thereto hath catch't a fall, a fearfull fall! and the hideous impoſturs, in pre<g ref="char:EOLhyphen"/>tence of Reformation, being now ignominiouſly blaſted, may change their tune, but keep the words, <hi>The Work goes bonnely on boy's.</hi>
+            </p>
+            <p>It were cruelty to make uſe of the Text now, when the Cove<g ref="char:EOLhyphen"/>nants Champion is put to a retreat, leaving one <hi>Guthry</hi> a Remon<g ref="char:EOLhyphen"/>ſtrator Miniſter, and another <hi>Giffin</hi> his ruling Elder to follow in a <hi>depending way;</hi> and yet it's impoſſible at all ſuch occaſions but you ſhall hear in every ones mouth, <hi>The Work goes bonnely on.</hi>
+            </p>
+            <p>One would think (at leſt a good Proteſtant) that the reading of holy Scripture, ſinging Pſalms before Sermons, the uſing of the Lords Prayer, rehearſing the Apoſtolick Creed at Baptiſm, giving glory to God at the end of Pſalms, and uſing of Prayer morning and evening in Congregations, were good and bony works, but the good Synod (which is none of the learned'ſt) where Blew-beard is a member, hath rejected ſuch works, when tendered to them by a noble Perſon, for which he diſſolved their Synod, and ſo <hi>their work went ſcurvily on.</hi> Now, if theſe who refuſe ſuch things had not need of Over-ſeers, any man may judge, unleſs you'l ſay the <hi>ſheep needs no Sheepherd,</hi> and that's ill again.</p>
+            <p>
+               <pb n="2" facs="tcp:179128:3"/>
+               <hi>May</hi> 29. (a day by Order of Parliament, ordered to be kept as a holy Day of Thanksgiving, for the ſignal Mercy's wherewith it is honoured) the good Town of <hi>Edingurgh,</hi> after the whole morning had been ſpent in all the Churches of the Town, and in <hi>Scotland,</hi> in Devotion, carried on their Work merrily and cheerfully. Sermon ended in the Parliament Houſe before His Grace, and the whole Members, preach't by that Worthy and Loyal Divine, Mr. <hi>Robert Lawrie,</hi> happy at this time, both in confirming proſelyt Royaliſts and convincing Covenanted Fanaticks. Sir <hi>Robert Murray</hi> Lord Provoſt, accompanied with the other Magiſtrates and Common Coun<g ref="char:EOLhyphen"/>cil, conducted the Lord Commiſſioner with all the reſt of the Par<g ref="char:EOLhyphen"/>liament, to the great Hall of King JAMES His Colledge; where at the entry he was welcomed by Mr. <hi>Lighton</hi> Principal of the place, with a <hi>Latine</hi> Speech, which with other pieces of Poetry are printed by themſelves. Here was prepared by the City of <hi>Edinburgh</hi> a moſt ſumptuous and magnificent Feaſt, that it was thought by many, and theſe witty Travellers, that all <hi>Europe</hi> could not out-do it: It's order was admirable, without the leſt of confuſion, (ordinary at ſuch pub<g ref="char:EOLhyphen"/>lique Solemnities) though the number of the Sitters was very great.<note place="margin">Not Sitters at Glory to the Father.</note> The Lord Provoſt and all other the Magiſtrates diſcovered ſuch jollity and chearfulneſſe that cannot be expreſt, all the Royal healths being accompanied with continual Canonado's from the Caſtle, and thus <hi>The work went bonnily one.</hi>
+            </p>
+            <p>In the Banquet preſented to the Lord Commiſſioner and the Members of Parliament, there was a moſt rare artificial <hi>Orange</hi> Tree placed before his <hi>Grace,</hi> and he pulling the <hi>Orange</hi> was next him, found within it this following ORATION.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Heroick Sir,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">A</seg>Lbeit I am one of the moſt ſenſ-ſatisfying creatures, which owes their birth and being to the glorious Sun, and am one of the Spaniards Rodomontade boaſts, when his ſarabanding fancy capers in its Zenith; Yet Sir, I was not ſo vain, as to eſteem my native qualities, or ad<g ref="char:EOLhyphen"/>mired value, ſufficient to recommend me to your Highneſs touch, without Robes of ſuggar: Thereby likewiſe intending to acknow<g ref="char:EOLhyphen"/>ledge, that your Royal Maſters Dominions (whoſe bowels are ſo li<g ref="char:EOLhyphen"/>beral
+<pb n="3" facs="tcp:179128:3"/>of ſuggar) can highten the delicacies of <hi>Spain.</hi> I believe, Sir, the world knows, that thoſe of my tribe, are ordinarily propogated by theſe rayes, who have in their Commiſſion, to tranſubſtantiat earth in gold (a tranſubſtantiation which Puritanes themſelves will not challenge) Yet finding, that in their journey, they are able to gra<g ref="char:EOLhyphen"/>tifie Ladies, Princes, and ſuch Heroes as you. (Great Sir,) By our nativity they imbrace the earth, kiſſes it, and courts it hotly to concur to our generation. It is alleaged likewiſe, that the Sun exhals the Beauties of the Ladies both of <hi>Portugal</hi> and <hi>Spain,</hi> meerly and moſt<g ref="char:EOLhyphen"/>ly to beautifie us. And ſuch is the reſpect we have from the greateſt Potentates of the world, that they are moſt content to admit us to their Table: And Ladies likewiſe rate our fellowſhip ſo highly, that they will not refuſe us their hands, when they refuſe them to their deareſt Gallants: And ſuch is our approven ſecrecy, that they will ſuffer us to be near them, when they are imployed moſt ſatisfyingly. I will ſpeak nothing of our charity in going about to viſit the ſick, nor of our skill in healing them; nor yet of our eloquence in perſwading the queaſie ſtomacks of green-ſickneſſed Ladies, nor yet how we are content to fall from the breaſt of our mother Trees, that we may viſit you of theſe Countries.</p>
+                        <p>Nature (Sir) in requital of that unparallel'd improvement you have made of her endowments, hath, to evidence her gratefull reſent<g ref="char:EOLhyphen"/>ment, gone out of the high road of cuſtom; and for your Highneſs honour and ſatisfaction, hath faſhioned this lovely Tree which you ſee, and whereof I am a depender: Heaven and Earth, albeit they have of a long time, ſtood at a great diſtance, (the Sun looking ſtill but coldly, cloudily and angrily upon this climat) yet both have con<g ref="char:EOLhyphen"/>curred in this complement, Heaven contributing heat, and Earth its moſt refined ſubſtance: And albeit <hi>Portugal</hi> be our chief mannour place, yet we are grown up here to aſſure the Subjects of theſe Do<g ref="char:EOLhyphen"/>minions, that <hi>Portugal</hi> fruit may grow in this Iſle, if the ground be well cultivate: providence intends to ſend you a Cien from thence, which, when grafted upon a good ſtock, will (we hope) both Bloſ<g ref="char:EOLhyphen"/>ſome and Budde to your admiration, and poſterity ſhall ſay,
+<q xml:lang="lat">
+                              <l>—Non deficit alter aureus,</l>
+                              <l>Et ſimili frondeſcet virga metallo.</l>
+                           </q>
+                        </p>
+                        <p>
+                           <pb n="4" facs="tcp:179128:4"/>
+WE may (Sir) pretend ſome intereſt in your Royal Maſter, as in the Uncle of that Noble Prince, whoſe Progenitors choſe us for His princly Title. And in you, Sir, as one whoſe ſword may prove the ſupporter of His Throne; If the Belgick Lyon ſhould begin to tare at it with his warlike Tusks; And then the Sea ſhould be an Eſcutcheon, which ſhall bear two Lyons contre-ſaliant. For we ſee that your Prince hath beautified your Shield with a Lyon rampant, to ſimbolize your courage, and to point at your reſpect to your Royal Maſter; that Lyon though rampant, is willing to barrier himſelf within two threeds (called by the French <hi>fillets</hi>) of a double trea<g ref="char:EOLhyphen"/>ſure, becauſe they are enriched with Flower <hi>de luces,</hi> from which, as being a part of the Royall Badges, He ſtands at ſome diſtance. Your name doth Caballiſtically ſuit with Your Armes, for <hi>JOANNES MIDLTON<g ref="char:V">Ʋ</g>S</hi> anagrammatized, is, <hi>Leo es non imitandus.</hi> Par<g ref="char:EOLhyphen"/>don me (Sir) for diveſting your name of it's Robes of honourable Titles; for I did it, that it might breath a little the air of Applauſe. Writers alledge, that the Lyon is ſtill in a feaver of courage; imploy us (Sir) to cool a little that heat: and ſeing you are now in the Sun<g ref="char:EOLhyphen"/>ſhine, and ſummer of peace, quench theſe unneceſſary, though noble flames, till the Winter of War begin to ſtorm; which cannot be whilſt your Great Maſter ſhines like the Sun in the ſigns of <hi>Virgo</hi> and <hi>Leo.</hi> Your humour doth <hi>Janus</hi>-like, look with a two faced provi<g ref="char:EOLhyphen"/>dence to Peace and Warre; And ſince <hi>Janus,</hi> his Temple was cloſed, ye have merited moe Lawrells from the hands of <hi>Themis,</hi>
+                           <note place="margin">
+                              <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> the Em<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>or wrote <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>tutes, cal<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> 
+                              <hi>Novellae,</hi> 
+                              <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>auſe writ<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> after all the <gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>er Laws.</note> then <hi>Mars</hi> had to beſtow upon you: and theſe noble Statutes which ye have touched by your Sceptered hand, ſhall for ever be <hi>Novellae Leonis</hi> to this Kingdom. And we wiſh that the Lyon of your Armes, in re<g ref="char:EOLhyphen"/>compenſe of this ſervice, did like the Lyon which the Venetians bear, carry a book in his claws in-ſigned with this inſcription.<lb/>
+                           <q>GOD ſave the KING.</q>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Out of an Ark of Corde-citron, flew a Dove with an <hi>Olive</hi> branch in its mouth, carrying this enſuing Scroll, with a great many more other cu<g ref="char:EOLhyphen"/>rioſities; invented and compoſed by that skilfull Arteſt <hi>Robert Mein.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <salute>My Lord,</salute>
+                        </opener>
+                        <p>MY great Grandam was twice commiſſion at by your Maſters great Grand<g ref="char:EOLhyphen"/>father, and common Father to you all, the Soveraign of the ſecond World. She diſcharged her firſt Commiſsion honeſtly, as your Grace did
+<pb n="5" facs="tcp:179128:4"/>yours, (and by her I claim ſome affinity with you) ſhe did not like the Cor<g ref="char:EOLhyphen"/>bie Meſſenger that went before her; ſhe return'd the firſt time to her Maſter <hi>re infecta,</hi> becauſe ſhe found no reſt for the ſole of her foot, for the waters were over the face of the whole Earth: Your Grace, in like manner, was firſt ſent out by your Maſter, to ſee if the waters of Rebellion were abated over the face of this Land, but you found no reſt for your foot, though you alighted upon Mountains as high as <hi>Ararat,</hi> for the Flood had raiſed it ſelf above all thoſe too; therefore you did very honeſtly return, and like my great Grandmother, gave your Maſter a perfect accompt. But <hi>Noah</hi> ſtayed yet other ſeven dayes, and then again ſent my Grandmother out of the <hi>Ark,</hi> who finding the waters abated, and the Earth ready to receive her Maſters Commands, returned with an <hi>Olive</hi> leaf in her mouth, the true Emblem of Peace and Tranquility.</p>
+                        <p>
+                           <hi>My Lord,</hi> even juſt ſo, after other ſeven dayes, counting according to the Prophets, a year for a day, as if by a Platonick revolution, our times re-acted theſe of the great Deludge. Your Glorious King, whom, like another <hi>Noah,</hi> God had marvelouſly preſerv'd as in an <hi>Ark,</hi> from the univerſal inundation of theſe Lands, ſent out your Grace the ſecond time with the like Commiſſion as my Grand<g ref="char:EOLhyphen"/>mother had; and indeed ſhe did as much as was poſſible for any that could not ſpeak, the <hi>Olive</hi> leaf ſpake fully for her: But your Grace, I muſt confeſs, hath out-gone her wonderfully, you have made the Earth to ſhout, and the Aire to re<g ref="char:EOLhyphen"/>ſound the glad tydings of Peace and Proſperity; you have ſent His <hi>Majeſty</hi> before your own return, ſeveral Branches of the <hi>Olive,</hi> you ſtay a little longer your ſelf, till you levell the Mountains and make the Valies flouriſh like the Gar<g ref="char:EOLhyphen"/>dens of <hi>Heſperiades,</hi> and having ſubdued the watchfull Dragon of Rebellion, you command the golden apples of due obedience to lawfull Authority: So may <hi>Jeruſalem</hi> again have Peace within her walls, and Proſperity within her gates; and ſo may your Royal Maſter with the permiſſion of His greater Affairs, deſire in better times to reviſit the manſions, where one hundred and nine of His Pro<g ref="char:EOLhyphen"/>genitors have been born, and tranſmitted a Monarchicall Crown to him through the decurſion of twenty Centuries.</p>
+                        <closer>GOD ſave your KING.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Nothing was wanting in the Good Town at this ſplendid Solemnity, whereby they might witneſs their Loyal Affections: for after the Enter<g ref="char:EOLhyphen"/>tainment, then begun the breaking of Glaſſes about Bonfires, which were ſo great, that a Whigumire Elder in going alongſt the Streets was cured of a <hi>French</hi> Scruby, which he had purchaſed at a Family Exerciſe, with a Remonſtratrix; and ſo his <hi>Work went Bonnily on.</hi>
+            </p>
+            <p>
+               <hi>WE carry not on the work alone, for our Loyal Brethren in</hi> England <hi>performes their part, as may be ſeen by this following extract, out of their publick Intelligencer, after he had at large deſcrybed the Order of the Great</hi> Montroſe <hi>his Funerall.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:179128:5"/>
+And here we cannot but minde you (and we cannot forbear) that the ſame day that the bloody Covenanters condemned the immortal <hi>James</hi> Marqueſs of <hi>Montroſe</hi> to that bloody Execution (<hi>viz.</hi> May 20.) was the ſame day, that the moſt honourable Houſe of Peers ordered the Solemn League and Covenant it ſelf to be burned by the hand of the common Hangman; the Order it ſelf is in <hi>haec verba</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="documents">
+                        <div type="part">
+                           <opener>
+                              <dateline>
+                                 <date>Die Lunae, 20. Maii, 1661.</date>
+                              </dateline>
+                           </opener>
+                           <p>THe Lords in Parliament Aſsembled, having conſidered of a Paper ſent unto them from the Houſe of Commons, for Bur<g ref="char:EOLhyphen"/>ning of the Inſtrument or Writing, called, <hi>The Solemn League or Covenant</hi> by the hands of the common Hangman; Do Order that the ſaid Inſtrument or Writing, called, <hi>The Solemn League and Co<g ref="char:EOLhyphen"/>venant,</hi> be Burned by the hand of the Common hangman in the New Palace at <hi>Weſtminſter,</hi>in <hi>Cheapſide,</hi> and before the Old Exchange, on Wedneſday the twenty ſecond of this inſtant <hi>May.</hi> And that the ſaid Covenant be forthwith taken off the Record in the Houſe of Peers, and in all other Courts and places where the ſame is Recorded; And that all Copies thereof be taken down out of all Churches, Chappels, and other publick places in <hi>England</hi> and <hi>Wales,</hi> and in the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> where the ſame are ſet up.</p>
+                        </div>
+                        <div type="part">
+                           <opener>
+                              <dateline>
+                                 <date>May, 22.</date>
+                              </dateline>
+                           </opener>
+                           <p>This day (according to Order of both Lords and Commons) tha<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> pernicious Oath, called the <hi>Solemn League and Covenant</hi> was burned by the hand of the Com<g ref="char:EOLhyphen"/>mon hangman in the New Palace <hi>Weſtminſter,</hi> in <hi>Cheapſide,</hi> and at the Old Ex<g ref="char:EOLhyphen"/>change: The executioner (to give the hangman his due) did his part perfectly well; for having kindled his fire, he tore that <hi>Solemn League</hi> into very many pieces: firſt burn'd the Preface, and then caſt each parcel ſolemnly into the fire; lifting up his hands and eyes, not leaving the leaſt ſhread, but burn'd it root and branch (what a damnable wicked <hi>Covenant</hi> was this, that makes us applaud the very hangman for burning it) This is that fatal Oath born in <hi>Scotland,</hi> and fed in both Kingdoms with the blood and lively hood of more thouſand Chriſtians then this Oath had words; for you formerly were told that this Covenant conſiſts of that Beaſtly number of 666 words, neither more nor leſſe.</p>
+                           <p>And while we ſpeak of Bonfires (happy for <hi>Great Britain</hi> if this Fire had been kindled in 1643.) We muſt remember that this day ſeven-night (<hi>May</hi> 29.) is the Anniverſary of the Birth of our moſt gracious Soveraign King <hi>CHARLES</hi> the Second, which by Act of Parliament is to be ſet apart and ſolemnized through his Majeſties Dominions; a Proclamation for that purpoſe is already in the Preſs; and let us add one Faggot to the Bonfire, that the 29. of <hi>May</hi> was the day (1549.) that the Book of Common Prayer was firſt eſtabliſhed, as ſure as on that day His Majeſty this time twelvemonth (after nineteen years abſence) came in triumph to Whitehall, whom God in mercy to theſe unhappy happy Kingdoms, grant long to reign over us, and a Bliſter on that tongue that will not ſay, AMEN.</p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="7" facs="tcp:179128:5"/>
+And to put a greater luſtre on <hi>the Bonny Work,</hi> ſome Loyal and In<g ref="char:EOLhyphen"/>genious ſpirit hath compoſed this Madrigal, which I could wiſh were apted to the tun of, <hi>The Work goes bonnily on:</hi> In time our reverend Hang-man <hi>Jocky Dunmoor</hi> may have ſuch another divertiſement by its mother, and then the Work, without doubt, will go bonnely on.</p>
+         </div>
+         <div type="poem">
+            <head>The Execution of the COVENANT, Burnt by the Common-Hang-man <hi>Edward Dun,</hi> PRESBYTER, <hi>May</hi> 22. 1661.</head>
+            <head type="sub">Publiſhed for the uſe of Dr. <hi>B.</hi> and Mr. <hi>Notcrof,</hi> and the reſt of the Rigid Presbyterians.</head>
+            <l>THe News I pray! What doth this Throug infer?</l>
+            <l>Do ye not know? <hi>D<g ref="char:V">Ʋ</g>N</hi> is turn'd PRESBYTER.</l>
+            <l>Well then! I ſee the Brethren in ſpite</l>
+            <l>Of <hi>BISHOPS,</hi> have obtained a <hi>PROSELITE;</hi>
+            </l>
+            <l>One that will ſoon be on the Rigid Score,</l>
+            <l>And be a cauſe of turning many more.</l>
+            <l>Make him an <hi>ELDER</hi> then! Indeed ye ſhall:</l>
+            <l>For he is one that may advance you all.</l>
+            <l>That he is now a BROTHER, you muſt grant,</l>
+            <l>For I did ſee him take the COVENANT.</l>
+            <l>Take it indeed; yet you muſt underſtand,</l>
+            <l>'Twas but to give't the Honour of his Hand.</l>
+            <l>But to be bold, and come a little nigher,</l>
+            <l>He took it, true, but threw it in the Fire.</l>
+            <l>In which he ſhew'd himſelf a CHRISTIAN right,</l>
+            <l>To let the Works of Darkneſſe come to light.</l>
+            <l>Bark then <hi>PHANATICKS,</hi> who like <hi>Demophon,</hi>
+            </l>
+            <l>Glow in the ſhade, and Freeze ſtill in the SUN.</l>
+            <l>Howle <hi>Millenaries, Independents</hi> too,</l>
+            <l>
+               <pb n="8" facs="tcp:179128:6"/>
+And <hi>Anabaptiſts,</hi> that Heretick Crew</l>
+            <l>Of <hi>Presbyterian</hi> By-blowes; If theſe Flaſhes</l>
+            <l>Be Sacred to you, Come and Urn the Aſhes;</l>
+            <l>For We eſteem the Reliques of theſe Sheets</l>
+            <l>Too dirty and debaucht to pave our Streets.</l>
+            <l>This Mouth-Granado, from that Scotch-witch came</l>
+            <l>To ſet three Glorious Kingdoms in a flame.</l>
+            <l>A Covenant? No, 'twas a Conſpiracy,</l>
+            <l>Plotted by Brethren in Iniquity.</l>
+            <l>Bold <hi>Aſſaſſin's</hi> that durſt attempt all ill,</l>
+            <l>And Holocauſt whole Kingdoms to Self-will.</l>
+            <l>Mend, mend, for ſhame, your Brother elſe will look,</l>
+            <l>To hang the Authors, as he burn't the Book.</l>
+            <l>But he preſumes, or hopes, ye'l rather turn,</l>
+            <l>Than follow your black Juncto to the Urn.</l>
+            <l>While I thus thinking am, who would deſire,</l>
+            <l>(Where it to Roaſt a RUMP) a fitter fire?</l>
+            <l>In which it now hath pleas'd the Fates to grant,</l>
+            <l>The Diſſolution of the—</l>
+            <l>— COVENANT.</l>
+         </div>
+         <div type="mock_notices_of_public_events">
+            <head>ADVERTISEMENTS.</head>
+            <p>THe Race of the Town of <hi>Jedburgh</hi> is to be run the firſt Wedneſday of <hi>June,</hi> being the fifth day of <hi>June:</hi> The Cup of Ten pounds <hi>Sterling</hi> price ſet down at the expence of the ſaid Town; the Saddle by the Earl of <hi>Lothian,</hi> at the value of four pounds <hi>Sterling.</hi>
+            </p>
+            <p>A Fair at <hi>Selkirk</hi> the fourth of <hi>July,</hi> and all the people are to have the liberty of the <hi>Common</hi> fourty eight hours before the Fair, and as much after; and all Goods at half Cuſtoms. This is a moſt excellent Market for Horſes of all ſorts, both for Hunting, Courſing and the great Saddle; and for excellent Milk-cows and Fat-oxen, and great Flocks of Sheep, the world can afford no better.</p>
+            <p>On the eleventh of <hi>June,</hi> ſix Brewſter wives, great with childe are to run from the <hi>Thicket Burn</hi> to the top of <hi>Arthur Seat,</hi> for a Groaning Cheeſe of one hundred pound weight, and a Budgell of <hi>Dunkel Aquavitae,</hi> and a <hi>Rumpkine</hi> of <hi>Brumſweek Mum</hi> for the ſecond, ſet down by a <hi>Dutch-Midwife.</hi> The next day after, ſixteen Fiſh-wives are to Trot with from <hi>Muſlburgh</hi> to the <hi>Cannon-croſs,</hi> for twelve pair of Lambs Harrigals.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Edinburgh, <hi>Printed,</hi> Anno Dom. <hi>1661.</hi>
+            </p>
+            <pb facs="tcp:179128:6"/>
+            <pb facs="tcp:179128:7"/>
+            <pb facs="tcp:179128:7"/>
+            <pb facs="tcp:179128:8"/>
+            <pb facs="tcp:179128:8"/>
+            <pb facs="tcp:179128:9"/>
+            <pb facs="tcp:179128:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
